@@ -5,11 +5,12 @@ Did not follow specs. Did not create a tag called hw1  Will need to resubmit. Se
 
 -25pts Late submission
 
--35pts 
+-30pts 
 
-	number of syscalls... 9
-	number of perror..... 2
-	grade modifier....... -35
+  number of syscalls... 8
+  number of perror..... 2
+  grade modifier....... -30
+
 
 +20 extra credit 
 -10 some commands do not work
