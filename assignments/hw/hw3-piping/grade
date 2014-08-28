@@ -1,8 +1,2 @@
-0 / 100
--100 did not make/compile 
-echo "updating/making bin folder"
-updating/making bin folder
-[ ! -d bin ] && mkdir bin
-make: *** [all] Error 1
+100 / 100
 
-Unable to test
