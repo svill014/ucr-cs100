@@ -1,2 +1,4 @@
-/ 100
+100 / 100
 -0 syscalls
+
+Extra credit was not given since fg and bg not working/implemented 
